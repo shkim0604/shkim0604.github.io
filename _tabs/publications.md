@@ -25,7 +25,7 @@ Seungpyo Choi, **Seonghoon Kim**, Taegyeong Lee, and Junehwa Song. [**“Scenari
 
 Chungkuk Yoo, Seungwoo Kang, Inseok Hwang, Chulhong Min, **Seonghoon Kim**, Wonjung Kim, and Junehwa Song. [**“Mom, I see You Angry at Me! Designing a Mobile Service for Parent-child Conflicts by In-situ Emotional Empathy”**](https://doi.org/10.1145/3325426.3329947) In Proceedings of the 5th ACM Workshop on Mobile Systems for Computational Social Science (MCSS '19). 
 
-**Seonghoon Kim**, Seungpyo Choi, Saumay Pushp, Wonjung Kim, and Junehwa Song. [**“CoughCCTV: Group-wise Cough Management Service”**](https://doi.org/10.1145/3267305.3267635) In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18).  
+**Seonghoon Kim**, Seungpyo Choi, Saumay Pushp, Wonjung Kim, and Junehwa Song. [**“CoughCCTV: Group-wise Cough Management Service”**](https://doi.org/10.1145/3267305.3267635) In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18). 
 
 Chungkuk Yoo, Inseok Hwang, Seungwoo Kang, Myung-Chul Kim, Seonghoon Kim, Daeyoung Won, Yu Gu, and Junehwa Song. [**“Demo: Card-stunt as a Service: Empowering a Massively Packed Crowd for Instant Collective Expressiveness”**](https://doi.org/10.1145/3081333.3089332) In Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '17). 
 
